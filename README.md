@@ -1,2 +1,0 @@
-# Internships
-All internship files
